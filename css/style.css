@@ -1,0 +1,480 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: url(vnbg.jpg);
+    size: auto;
+}
+
+.vn {
+    position: absolute;
+    background: black;
+    display: inline-block;
+    height: 38px;
+    width: 356px;
+    left: 50px;
+    top: 378px;
+    padding: 4px 23px;
+    /* display: inline-block; */
+    color: #dce3dc;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 2em;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px 10px rgb(200 200 200 / 63%);
+}
+
+.icon1 {
+    position: absolute;
+    top: 250px;
+    right: 34px;
+    /* border: 2px solid rgba(1, 1, 189, 0.322); */
+    border-radius: 20px;
+    background-color: rgba(14, 14, 59, 0.322);
+    padding: -2px;
+    box-shadow: 0px 0px 35px 19px rgb(17, 17, 83);
+}
+
+.icon1:hover {
+    box-shadow: 0px 0px 35px 19px rgba(38, 27, 192, 0.575);
+    padding: 10px;
+}
+
+
+/* .navbar {
+    display: inline-block;
+}
+
+.navbar li {
+    display: inline-block;
+    font-size: 20px;
+}
+
+.navbar li a {
+    color: white;
+    text-decoration: none;
+
+    padding: 3px 27px;
+    border: 3px solid gray;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.navbar li a:hover {
+    background-color: gray;
+   
+    box-shadow: 0px 0px 10px 5px rgba(219, 2, 2, 0.842);
+
+}
+
+
+ */
+
+.icon1 {
+    position: absolute;
+    top: 153px;
+    right: 269px;
+    /* border: 2px solid rgba(1, 1, 189, 0.322); */
+    border-radius: 20px;
+    background-color: rgba(14, 14, 59, 0.322);
+    padding: -2px;
+    font-size: 2.5em;
+    box-shadow: 0px 0px 35px 9px rgb(54, 54, 201);
+}
+
+.icon2 {
+    position: absolute;
+    top: 153px;
+    right: 90px;
+    /* border: 2px solid rgba(1, 1, 189, 0.322); */
+    border-radius: 20px;
+    background-color: rgba(14, 14, 59, 0.322);
+    font-size: 2.5em;
+    padding: -2px;
+    box-shadow: 0px 0px 35px 9px rgb(54, 54, 201);
+}
+
+.icon1:hover {
+    box-shadow: 0px 0px 35px 19px rgb(240, 42, 7);
+    padding: 10px;
+}
+
+.icon2:hover {
+    box-shadow: 0px 0px 35px 19px rgb(252, 12, 12);
+    padding: 10px;
+}
+
+.icon3:hover {
+    box-shadow: 0px 0px 35px 19px rgb(243, 19, 19);
+    padding: 10px;
+}
+
+.icon4:hover {
+    box-shadow: 0px 0px 35px 19px rgb(255, 0, 0);
+    padding: 10px;
+}
+
+.icon6:hover {
+    box-shadow: 0px 0px 35px 19px rgb(255, 0, 0);
+    padding: 10px;
+}
+
+.icon7:hover {
+    box-shadow: 0px 0px 35px 19px rgb(255, 10, 10);
+    padding: 10px;
+}
+
+.icon5:hover {
+    box-shadow: 0px 0px 35px 19px rgb(255, 13, 13);
+    padding: 10px;
+}
+
+.icon2 {
+    position: absolute;
+    top: 270px;
+    right: 150px;
+    /* border: 2px solid rgba(1, 1, 189, 0.322); */
+    font-size: 2.5em;
+    border-radius: 20px;
+    background-color: rgba(14, 14, 59, 0.322);
+    padding: -2px;
+    box-shadow: 0px 0px 35px 19px rgb(54, 54, 201);
+}
+
+.icon3 {
+    position: absolute;
+    top: 370px;
+    right: 269px;
+    /* border: 2px solid rgba(1, 1, 189, 0.322); */
+    border-radius: 20px;
+    background-color: rgba(14, 14, 59, 0.322);
+    padding: -2px;
+    box-shadow: 0px 0px 35px 9px rgb(54, 54, 201);
+    font-size: 2.5em;
+}
+
+.icon4 {
+    position: absolute;
+    top: 490px;
+    right: 150px;
+    /* border: 2px solid rgba(1, 1, 189, 0.322); */
+    border-radius: 20px;
+    background-color: rgba(14, 14, 59, 0.322);
+    font-size: 2.5em;
+    padding: -2px;
+    box-shadow: 0px 0px 35px 9px rgb(54, 54, 201);
+}
+
+.icon5 {
+    position: absolute;
+    top: 590px;
+    right: 269px;
+    /* border: 2px solid rgba(1, 1, 189, 0.322); */
+    border-radius: 20px;
+    font-size: 2.5em;
+    background-color: rgba(14, 14, 59, 0.322);
+    padding: -2px;
+    box-shadow: 0px 0px 35px 9px rgb(54, 54, 201);
+}
+
+.icon6 {
+    position: absolute;
+    top: 710px;
+    right: 150px;
+    /* border: 2px solid rgba(1, 1, 189, 0.322); */
+    border-radius: 20px;
+    background-color: rgba(14, 14, 59, 0.322);
+    padding: -2px;
+    box-shadow: 0px 0px 35px 9px rgb(54, 54, 201);
+    font-size: 2.5em;
+}
+
+.icon7 {
+    position: absolute;
+    top: 810px;
+    right: 269px;
+    /* border: 2px solid rgba(1, 1, 189, 0.322); */
+    border-radius: 20px;
+    background-color: rgba(14, 14, 59, 0.322);
+    padding: -2px;
+    box-shadow: 0px 0px 35px 9px rgb(54, 54, 201);
+    font-size: 2.5em;
+}
+
+.form-group input:hover {
+    border: 3px solid black;
+    border-radius: 15px;
+    width: 200px;
+    height: 20px;
+    box-shadow: 0px 0px 10px 15px rgba(164, 172, 204, 0.452);
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(45deg);
+        box-shadow: 0px 0px 10px 15px rgba(31, 72, 255, 0.897);
+    }
+    15% {
+        transform: rotate(150deg);
+        box-shadow: 0px 0px 10px 15px rgba(235, 4, 4, 0.801);
+    }
+    25% {
+        transform: rotate(250deg);
+        box-shadow: 0px 0px 20px 15px rgba(255, 46, 227, 0.685);
+    }
+    35% {
+        transform: rotate(355deg);
+        box-shadow: 0px 0px 10px 15px rgba(240, 16, 16, 0.452);
+    }
+    50% {
+        transform: rotate(450deg);
+        box-shadow: 0px 0px 10px 15px rgba(0, 209, 216, 0.452);
+    }
+    65% {
+        transform: rotate(550deg);
+        box-shadow: 0px 0px 10px 15px rgba(0, 40, 216, 0.788);
+    }
+    75% {
+        transform: rotate(650deg);
+        box-shadow: 0px 0px 10px 15px rgba(209, 0, 216, 0.452);
+    }
+    85% {
+        transform: rotate(750deg);
+        box-shadow: 0px 0px 10px 15px rgba(0, 216, 47, 0.452);
+    }
+    100% {
+        transform: rotate(650deg);
+        box-shadow: 0px 0px 10px 15px rgb(255, 0, 0);
+    }
+}
+
+.ele {
+    background: url(vnr.jpg);
+    right: 40%;
+    width: 200px;
+    height: 200px;
+    border: 40px solid #000;
+    position: absolute;
+    top: 219px;
+    right: 466px;
+    transition: all 4s ease-in-out;
+    animation: rotate 40s linear infinite, fadeIn 1s linear forwards;
+    /* animation-delay: 7s; */
+    cursor: pointer;
+    box-shadow: 0px 0px 15px 10px rgba(44, 44, 238, 0.788);
+}
+
+.vaibhav {
+    position: absolute;
+    height: 275px;
+    width: 281px;
+    top: 41px;
+    left: 65px;
+    box-shadow: 0px 0px 15px 10px rgba(44, 44, 238, 0.788);
+    padding: 10px;
+}
+
+.vaibhav:hover {
+    box-shadow: 0px 0px 34px 21px #39ff14;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    font-family: sans-serif;
+}
+
+
+/* styling the button*/
+
+a {
+    padding: 2px 2px;
+    display: inline-block;
+    color: #008000;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 3em;
+    overflow: hidden;
+}
+
+
+/*creating animation effect*/
+
+a:hover {
+    color: #111;
+    background: #39ff14;
+    box-shadow: 0 0 50px #39ff14;
+}
+
+.hrc {
+    color: whitesmoke;
+    /* border: 3px 4px solid wheat;
+     */
+    position: absolute;
+    height: 52px;
+    width: 871px;
+    top: 10px;
+    left: 459px;
+    background-color: black;
+}
+
+
+/* .b1{
+    position: absolute;
+ 
+    color: #010101;
+    border-radius: 5px;
+    height: 35px;
+    width: 70px;
+    top: 28px;
+    left: 473px;
+} */
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+
+/* Style the links inside the navigation bar */
+
+.topnav a {
+    position: absolute;
+    top: 21px;
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.active {
+    left: 200px;
+}
+
+.active0 {
+    left: 465px;
+}
+
+.active1 {
+    left: 547px;
+}
+
+.active2 {
+    left: 640px;
+}
+
+.active3 {
+    left: 764px;
+}
+
+
+/* Change the color of links on hover */
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+
+/* Add a color to the active/current link */
+
+.topnav a.active {
+    background-color: #11199f;
+    color: white;
+}
+
+a.active {
+    top: 338px;
+    left: 142px;
+    height: 10px;
+}
+
+.inp1 {
+    position: absolute;
+    left: 3rem;
+    top: 29rem;
+    width: 15rem;
+    height: 2rem;
+    background-color: #333;
+}
+
+
+/* .inp1:hover{
+    width: 30rem;
+    border: rgba(19, 219, 12, 0.74);
+     border-radius: 10px;
+
+} */
+
+.inp2 {
+    position: absolute;
+    left: 3rem;
+    top: 32rem;
+    width: 3rem;
+    height: 2rem;
+    background-color: rgb(15 15 15 / 66%);
+    color: white;
+}
+
+.hrc1 {
+    color: whitesmoke;
+    position: absolute;
+    height: 58px;
+    width: 29em;
+    top: 38.5em;
+    left: 0em;
+    background-color: #fff0f030;
+}
+
+.newp {
+    position: absolute;
+    display: inline-block;
+    left: 3rem;
+    top: 38rem;
+}
+
+.newpt {
+    position: absolute;
+    display: inline-block;
+    left: 3rem;
+    top: 36rem;
+    color: whitesmoke;
+}
+
+.divh {
+    position: absolute;
+    display: inline-block;
+    left: 2em;
+    top: 46em;
+    color: white;
+}
+
+.hrc2 {
+    color: #ba282800;
+    position: absolute;
+    height: 208px;
+    width: 62em;
+    top: 46em;
+    left: 0em;
+    background-color: #d8d9f133;
+    box-shadow: 0px 0px 1em 0.1em aliceblue;
+}
+
+.hrc3 {
+    color: #ebebeb;
+    position: absolute;
+    height: 115px;
+    width: 36em;
+    top: 29em;
+    left: 0em;
+    background-color: #d8d9f133;
+    box-shadow: 0px 0px 1em 0.1em aliceblue;
+}
